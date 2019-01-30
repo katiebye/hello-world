@@ -1,2 +1,3 @@
 # hello-world
-Just another repositiry
+Just another repository
+I like cheese
